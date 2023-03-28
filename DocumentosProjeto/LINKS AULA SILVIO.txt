@@ -1,0 +1,1 @@
+http://vps45156.publiccloud.com.br:8000/scoreboard
